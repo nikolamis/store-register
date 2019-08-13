@@ -1,0 +1,14 @@
+C:\Users\mirko\source\repos\TvpProjekat2\TvpProjekat2\bin\Debug\TvpProjekat2.exe.config
+C:\Users\mirko\source\repos\TvpProjekat2\TvpProjekat2\bin\Debug\TvpProjekat2.exe
+C:\Users\mirko\source\repos\TvpProjekat2\TvpProjekat2\bin\Debug\TvpProjekat2.pdb
+C:\Users\mirko\source\repos\TvpProjekat2\TvpProjekat2\obj\Debug\TvpProjekat2.csprojAssemblyReference.cache
+C:\Users\mirko\source\repos\TvpProjekat2\TvpProjekat2\obj\Debug\TvpProjekat2.Properties.Resources.resources
+C:\Users\mirko\source\repos\TvpProjekat2\TvpProjekat2\obj\Debug\TvpProjekat2.csproj.GenerateResource.cache
+C:\Users\mirko\source\repos\TvpProjekat2\TvpProjekat2\obj\Debug\TvpProjekat2.csproj.CoreCompileInputs.cache
+C:\Users\mirko\source\repos\TvpProjekat2\TvpProjekat2\obj\Debug\TvpProjekat2.exe
+C:\Users\mirko\source\repos\TvpProjekat2\TvpProjekat2\obj\Debug\TvpProjekat2.pdb
+C:\Users\mirko\source\repos\TvpProjekat2\TvpProjekat2\obj\Debug\TvpProjekat2.Form1.resources
+C:\Users\mirko\source\repos\TvpProjekat2\TvpProjekat2\obj\Debug\TvpProjekat2.FormaArtikli.resources
+C:\Users\mirko\source\repos\TvpProjekat2\TvpProjekat2\obj\Debug\TvpProjekat2.DodavanjeProizvoda.resources
+C:\Users\mirko\source\repos\TvpProjekat2\TvpProjekat2\obj\Debug\TvpProjekat2.ArtikalJedan.resources
+C:\Users\mirko\source\repos\TvpProjekat2\TvpProjekat2\obj\Debug\TvpProjekat2.FormicaRacuni.resources
